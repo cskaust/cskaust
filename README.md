@@ -5,3 +5,4 @@
 - 📫 How to reach me, just fork this and type hi;)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cskaust)](https://github.com/cskaust/github-readme-stats)
