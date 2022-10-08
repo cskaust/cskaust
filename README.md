@@ -11,3 +11,8 @@
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cskaust&repo=github-readme-stats)](https://github.com/cskaust/github-readme-stats)
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cskaust&layout=compact)](https://github.com/cskaust/github-readme-stats)
