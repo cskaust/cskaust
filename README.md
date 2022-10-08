@@ -16,3 +16,8 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cskaust&layout=compact)](https://github.com/cskaust/github-readme-stats)
+
+
+
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cskaust)](https://github.com/cskaust/github-readme-stats)
