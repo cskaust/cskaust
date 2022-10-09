@@ -21,3 +21,6 @@
 
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cskaust)](https://github.com/cskaust/github-readme-stats)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=cskaust&theme=dark)](https://git.io/streak-stats)
