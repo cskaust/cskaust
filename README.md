@@ -6,7 +6,4 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cskaust)](https://github.com/cskaust/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cskaust&layout=compact)](https://github.com/cskaust/github-readme-stats)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=cskaust&theme=dark)](https://git.io/streak-stats)
